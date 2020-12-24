@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+h1 {
+  text-align: center;
+}
+button {
+  background-color: palevioletred;
+  color: aliceblue;
+  padding: 12px 20px;
+  border: 2px solid aliceblue;
+  border-radius: 5px;
+  outline: none;
+  cursor: pointer;
+}
+div {
+  height: 90vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
